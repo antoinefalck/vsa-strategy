@@ -15,9 +15,9 @@ This repo includes :
 
 - A moving average, with an avering period of 23, calculated on the closing prices
 - The color of the moving average indicator :
-  - Green if the n MA is higher than the n-1 MA and the n price closing is higher than the n MA
-  - Red if the n MA is lower than the n-1 MA and the n price closing is lower than the n MA
-  - else it is gray
+  - **Green** if the n MA is higher than the n-1 MA and the n price closing is higher than the n MA
+  - **Red** if the n MA is lower than the n-1 MA and the n price closing is lower than the n MA
+  - else it is **gray**
   
 ### Volumes window
 
@@ -25,11 +25,11 @@ This repo includes :
 - Three Bollinger Bands with standard deviations of 0.4, 1 and 2
 - The color of the bars :
   - If the n Volume is superior than the n-1 Volume
-    - Neon green if the MA is green
-    - Pale green if the MA is gray or red
+    - **Neon green** if the MA is green
+    - **Pale green** if the MA is gray or red
   - If the n Volume is lower than the n-1 Volume
-    - Red if the MA is red
-    - Orange if the MA is gray or green
+    - **Red** if the MA is red
+    - **Orange** if the MA is gray or green
 
 ## SOS SOW Indicators
 
